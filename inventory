@@ -1,0 +1,6 @@
+# This is the default ansible 'hosts' file.
+
+[cnodes]
+jherwin@192.168.56.102 apache_package=apache2 php_package=libapache2-mod-php
+centos@192.168.56.108 apache_package=httpd php_package=php
+
